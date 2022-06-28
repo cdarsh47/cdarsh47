@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on PHP ptojects
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: https://twitter.com/eigaphile
-⚡ Fun fact: I have written a novel
+-⚡ Fun fact: I have written a novel
 <!--
 **cdarsh47/cdarsh47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
