@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on PHP ptojects
+- 🔭 I’m currently working on PHP projects
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: https://twitter.com/eigaphile
 - ⚡ Fun fact: I have written a novel
