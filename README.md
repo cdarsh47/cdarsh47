@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on PHP projects
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on PHP, Python projects
+- 🌱 I’m currently learning Data Science in Python
 - 📫 How to reach me: https://twitter.com/eigaphile
 - ⚡ Fun fact: I have written a novel
 <!--
